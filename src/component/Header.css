@@ -1,0 +1,22 @@
+.home{
+    background-color: rgb(247, 168, 168);
+}
+
+
+.pizza img{
+    width: 100%;
+    height: 30rem;
+}
+
+.stores img{
+    width: 360px;
+    height: 360px;
+}
+
+.stores{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    
+
+}

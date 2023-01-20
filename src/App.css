@@ -1,3 +1,37 @@
+*{
+  
+  margin: 0 auto;
+}
+h1{
+  border: 1px black solid;
+  background-color: tomato;
+  color: white;
+  border-radius: 10px;
+}
+
+.header{
+  height: 10rem;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ font:3 rem 'Montserrat', sans-serif;
+ color:black;
+ background-color: #b3ccff;
+}  
+  
+a{
+  text-decoration: none;
+  color: white;
+  background-color: tomato;
+  padding: 10px 50px 10px 50px;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-weight: bold;
+  letter-spacing: 1.2px;
+}
+
+
+
 .App {
   text-align: center;
 }

@@ -1,0 +1,47 @@
+.pizza_siparis{
+    background-image: url(https://media.istockphoto.com/id/1192270298/photo/people-clinking-glasses-with-wine-over-table-with-italian-pizza.jpg?s=612x612&w=0&k=20&c=euHkq6B3P4jg3cZRAPWTVgT5gvMRcWZ6FCiX8IU-gdc=);
+    background-size: cover;
+    background-position: center center;
+}
+
+.order{
+    width: 360px;
+    margin: 0 auto;
+    text-align: center;
+    
+    color: black;
+    background-color:rgb(224, 220, 219);
+    
+   
+}
+
+h3{
+    border: 2px black solid;
+    background-color: rgb(192, 183, 183);
+}
+
+.adet {
+    width: 35px;
+}
+
+.not{
+    height: 50px;
+}
+h4{
+    color:red
+}
+.onay{
+    border: 1px black solid;
+    background-color: rgb(4, 85, 4);
+    color: black;
+    border-radius: 20px;
+}
+
+input{
+    display: block;
+}
+
+
+
+
+
